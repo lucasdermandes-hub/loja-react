@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    { "id": 1, "nome": "Camiseta Dry Fit", "descricao": "Tecnologico respiravel para treinos intensos.", "preco": 79.9, "categoria": "Roupas", "estoque": 15 },
+    { "id": 2, "nome": "Moletom Canguru", "descricao": "Casaco quente com capuz ajustavel.", "preco": 199.9, "categoria": "Roupas", "estoque": 7 },
+    { "id": 3, "nome": "Mochila Urbana", "descricao": "Compartimento acolchoado para notebook ate 15 polegadas.", "preco": 159.9, "categoria": "Acessorios", "estoque": 9 },
+    { "id": 4, "nome": "Garrafa Termica Inox 750ml", "descricao": "Mantem liquidos frios por 24 horas ou quentes por 12 horas.", "preco": 89.9, "categoria": "Acessorios", "estoque": 12 },
+    { "id": 5, "nome": "Tenis Runner Pro", "descricao": "Leve e amortecido para corrida de alta performance.", "preco": 299.9, "categoria": "Calcados", "estoque": 5 }
+  ],
+  "categorias": [
+    { "id": 1, "nome": "Roupas" },
+    { "id": 2, "nome": "Acessorios" },
+    { "id": 3, "nome": "Calcados" }
+  ]
+}
